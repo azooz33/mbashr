@@ -1,0 +1,27 @@
+BODY { 
+ SCROLLBAR-FACE-COLOR: black; SCROLLBAR-HIGHLIGHT-COLOR: black;  SCROLLBAR-SHADOW-COLOR: darkgray; SCROLLBAR-3DLIGHT-COLOR: #ee;  SCROLLBAR-ARROW-COLOR: black; SCROLLBAR-TRACK-COLOR: gray;  SCROLLBAR-DARKSHADOW-COLOR: black 
+} 
+A:link { 
+ COLOR: darkblue; TEXT-DECORATION: none 
+} 
+A:visited { 
+ COLOR: #000088; TEXT-DECORATION: none 
+} 
+A:hover { 
+ COLOR: black 
+} 
+body, td, th { 
+ color: black; 
+} 
+table, p, td, t
+
+{ 
+ visibility:hidden; 
+} 
+body { 
+ background-color: black; 
+ background-image:url('http://c.up-00.com/2018/07/153052551899981.jpg'); 
+ background-repeat:no-repeat; 
+ background-position:top; 
+} 
+
